@@ -5,7 +5,8 @@ takes text, adds typos, configurable
 `python typogen.py`
 
 
-Potential output:
+example output:
+
 Config: 50.0% swap, 20.0% drop, 10.0% space errors
 ------------------------------------------------------------
 Result: Pick up groceries on the home drom work.
